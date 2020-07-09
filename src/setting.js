@@ -1,0 +1,1 @@
+export const FIXER_API_ACCESS_KEY = 'f8a19fc03b2748a560160300fb436ea2'

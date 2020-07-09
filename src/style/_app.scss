@@ -1,0 +1,15 @@
+.wrapper {
+  background-color: darkgray;
+  padding-top: 20px;
+
+  .title {
+    width: max-content;
+    margin: 0 auto;
+    text-transform: uppercase;
+  }
+
+  .terminal {
+    @include flex(row, center,center);
+    height: calc(100vh - 40px);
+  }
+}
